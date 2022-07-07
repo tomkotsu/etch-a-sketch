@@ -1,9 +1,6 @@
-* {
-    border: 2px solid red;
-}
 
 .square {
-    border: 2px solid blue;
+    border: 1px solid black;
     flex: 1 1 auto;
     width: 2.5rem;
     height: 2.5rem;
@@ -23,4 +20,8 @@
 
 .filled {
     background-color: black;
+}
+
+.button-bar {
+    text-align: center;
 }
